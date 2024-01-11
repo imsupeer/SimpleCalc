@@ -1,0 +1,11 @@
+#def = define function
+#if = se
+#else = senão
+#while = enquanto
+#somente 1 = significa recebe, 2 == igual
+#break = para o código
+#continue - continua o código
+#not in = não estiver entre
+#elif = senão se
+#from = de
+#o sinal * no comando import significa importar tudo que há no arquivo referido
